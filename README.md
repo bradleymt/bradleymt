@@ -1,4 +1,7 @@
-## Hi there 👋
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bradleymt&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=tokyonight" />
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradleymt&custom_title=My+GitHub+Stats&show_icons=true&theme=tokyonight" />
+
 
 <!--
 **bradleymt/bradleymt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
