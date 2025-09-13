@@ -3,7 +3,9 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradleymt&custom_title=My+GitHub+Stats&show_icons=true&theme=tokyonight" />
 
 ##
-Hi, I'm a sophomore studying CS at Mizzou with an interest in energy production and systems software. My page is pretty sparse because I have a lot to learn before I create anything more complex than simple websites, terminal print programs, and applications with limited GUI use.<br><br> In the meantime, I'm going to keep studying and hopefully put out some interesting projects in the future.
+
+
+Hi, I'm a sophomore studying CS at Mizzou with an interest in energy production and systems software. My page is pretty sparse because I have a lot to learn before I create anything more complex than simple websites, terminal print programs, and applications with limited GUI use. In the meantime, I'm going to keep studying and hopefully put out some interesting projects in the future.
 <!--
 **bradleymt/bradleymt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
